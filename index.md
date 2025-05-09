@@ -24,7 +24,7 @@ My interests include *problem solving*, and **mathematics**.
 
 ## Projects
 
-### Project 1: Title of Your Project
+### Project 1: Water Violations Analysis
 ![image](https://github.com/user-attachments/assets/edc06974-d0cc-4587-967c-bc2c064e3aca)
   
 *Our client wanted to look at only small, active systems serving less than 10000 people, and they want to know the total number of violations occurring in Iowa categorized by the type of water system, the source water type and contaminant.*
@@ -33,7 +33,7 @@ My interests include *problem solving*, and **mathematics**.
 
 ---
 
-### Project 2: Another Project
+### Project 2: Statics Problem Solving
 ![image](https://github.com/user-attachments/assets/38cd729a-923b-451f-8b7d-466c35df92b4)
 
 *This project is about solving statics problems using Python code. In this project, I learned how to make unit conversions in Python, import images, and make functions to solve complex problems.*
